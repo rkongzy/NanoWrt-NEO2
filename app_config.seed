@@ -5,6 +5,7 @@ CONFIG_PACKAGE_default-settings=y
 
 CONFIG_PACKAGE_luci-app-openclash=y
 CONFIG_PACKAGE_luci-theme-argon=y
+CONFIG_PACKAGE_luci-app-zerotier=y
 
 CONFIG_BRCMFMAC_SDIO=y
 CONFIG_PACKAGE_usb-modeswitch=y
