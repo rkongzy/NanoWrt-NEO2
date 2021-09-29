@@ -23,6 +23,9 @@ sed -i '/\t\t\t\t\t\t/d;s/ \/.*$//' luci-theme-argon/luasrc/view/themes/argon/fo
 # luci-app-openclash
 git clone https://github.com/vernesong/OpenClash.git package/luci-app-openclash
 
+# luci-app-zerotier
+git clone https://github.com/rkongzy/luci-app-zerotier.git package/luci-app-zerotier
+
 # ServerChan
 git clone https://github.com/tty228/luci-app-serverchan
 
